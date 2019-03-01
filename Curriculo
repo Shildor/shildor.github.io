@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Curriculo</title>
+</head>
+
+<body>
+<header>
+  <div align ='center'>
+    <h1><b>Alexandre Pereira da Silva<br/>Programador</b></h1>
+  </div>
+</header>
+
+<div align ='center'>
+  <img src="https://media.licdn.com/dms/image/C5603AQG9dsPFbaPOwg/profile-displayphoto-shrink_100_100/0?e=1556755200&v=beta&t=4lj-dYXIhFj_krQPz1sIKQXBBJ4kQWjgzXRnwKXgS-I">
+  <h2>Ola,</h2><p>Sou programador e estudante do curso de SI.<br/>Este e um trabalho para o       professor Fabricio.</p>
+</div></br>
+
+<div align ='center'>
+  <h2>Minhas Habilidades</h2><p>desenvoltura, coerencia entre o discurso e a acao,</br>         objetividade, capacidade de transmitir ideias, bom</br>portugues, capacidade de escutar.</p></br>*********************
+</div>
+
+<div align ='center'>
+  <h2>Entre em Contato</h2><p>(31)xxxx-xxxx</br>(31)xxxx-xxxx</p></br></br>
+</div>
+
+<footer>
+  <p>&copy; 2019 - Alexandre Pereira. Todos os Direitos Reservados - Este site e um projeto   para a aula do Professor Fabricio Valadares</p>
+</footer>
+
+
+
+
+
+
+
+</body>
+
+</html>
